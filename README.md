@@ -30,7 +30,7 @@ For example, random forest achieved a `MAE of 125.5`, which means that, on avera
 * scikit-learn
 
 ## Usage
-The main file to run is `forecase_sales.py`. The dataset `sales_data.csv` is also required to run this file. The file can be run on command line by typing `python forcast_sales.py`
+The main file to run is `forecast_sales.py`. The dataset `sales_data.csv` is also required to run this file. The file can be run on command line by typing `python forcast_sales.py`
 
 ## Note
 
